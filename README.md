@@ -27,7 +27,7 @@
 # 📖 Portfolio-desktop-version <a name="about-project"></a>
 
 
-**Portfolio-desktop-version** is a website that displays my Techinical skills and projects that i have done.
+**Ansar-Portfolio** is a website that displays my Techinical skills and projects that i have done.
 
 
 **Link to online version of My Portfolio** is in [Live Demo](#live-demo)
@@ -78,7 +78,7 @@
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 
-- [Live Demo Link](https://ansaribrahim.github.io/Portfolio-desktop-version/)
+- [Live Demo Link](https://ansaribrahim.github.io/Ansar-Portfolio/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -97,18 +97,18 @@ In order to run this project you need:
 
 ### Setup
 
-- Clone this repository to your desired folder with the following commend `git clone git@github.com:AnsarIbrahim/Portfolio-desktop-version.git`
+- Clone this repository to your desired folder with the following commend `git clone git@github.com:AnsarIbrahim/Ansar-Portfolio.git`
 
 
 ### Install
 
-- Type cd Portfolio-desktop-version
+- Type cd Ansar-Portfolio
 - open index.html file in the browser
 
 ### Usage
 
 - To run the project, execute the following command:
-  - Type cd Portfolio-desktop-version
+  - Type cd Ansar-Portfolio
   - open index.html file in the browser
 
 ### Run tests
@@ -119,7 +119,7 @@ In order to run this project you need:
 ### Deployment
 
 - You can deploy this project using:
-  - Type cd Portfolio-desktop-version
+  - Type cd Ansar-Portfolio
   - open index.html file in the browser
 
 
