@@ -135,7 +135,7 @@ Ansar-Portfolio
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Ansar**
+👤 **Ansar Ibrahim**
 
 - GitHub: [Ansar Ibrahim](https://github.com/AnsarIbrahim)
 - Twitter: [Ansar Ibrahim](https://twitter.com/ansaradheeb)
