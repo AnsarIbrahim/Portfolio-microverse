@@ -97,18 +97,24 @@ In order to run this project you need:
 
 ### Setup
 
-- Clone this repository to your desired folder with the following commend `git clone git@github.com:AnsarIbrahim/Ansar-Portfolio.git`
+- Clone this repository to your desired folder with the following commend
+```
+git clone git@github.com:AnsarIbrahim/Ansar-Portfolio.git
+```
 
 
 ### Install
 
-- Type cd Ansar-Portfolio
+- Type cd 
+```
+Ansar-Portfolio
+```
 - open index.html file in the browser
 
 ### Usage
 
 - To run the project, execute the following command:
-  - Type cd Ansar-Portfolio
+  - Type cd ``` Ansar-Portfolio ```
   - open index.html file in the browser
 
 ### Run tests
@@ -119,7 +125,7 @@ In order to run this project you need:
 ### Deployment
 
 - You can deploy this project using:
-  - Type cd Ansar-Portfolio
+  - Type cd ``` Ansar-Portfolio ```
   - open index.html file in the browser
 
 
@@ -131,9 +137,9 @@ In order to run this project you need:
 
 👤 **Ansar**
 
-- GitHub: [AnsarIbrahim](https://github.com/AnsarIbrahim)
-- Twitter: [@ansaradheeb](https://twitter.com/ansaradheeb)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/ansar-ibrahim-61447424a/)
+- GitHub: [Ansar Ibrahim](https://github.com/AnsarIbrahim)
+- Twitter: [Ansar Ibrahim](https://twitter.com/ansaradheeb)
+- LinkedIn: [Ansar Ibrahim](https://linkedin.com/in/ansar-ibrahim-61447424a/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
