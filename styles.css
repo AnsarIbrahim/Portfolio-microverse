@@ -44,7 +44,7 @@ a {
 .btn:hover {
   background: var(--Secondary);
   cursor: pointer;
-  box-shadow: 0px 8px 16px rgba(54, 179, 127, 0.24);
+  box-shadow: 0.1px 8px 16px rgba(54, 179, 127, 0.24);
   font-size: 20px;
 }
 
