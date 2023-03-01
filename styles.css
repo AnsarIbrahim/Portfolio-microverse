@@ -44,6 +44,8 @@ a {
 .btn:hover {
   background: var(--Secondary);
   cursor: pointer;
+  box-shadow: 0px 8px 16px rgba(54, 179, 127, 0.24);
+  font-size: 20px;
 }
 
 .btn:active {
@@ -90,6 +92,10 @@ a {
   font-size: 15px;
   line-height: 20px;
   font-weight: 600;
+}
+
+.nav-li li a:hover {
+  font-size: 30px;
 }
 
 .material-symbols-outlined {
@@ -425,32 +431,6 @@ input::placeholder {
   padding: 5%;
 }
 
-.btn-1 {
-  background: #36b37f;
-  border-radius: 4px;
-  width: 124px;
-  height: 48px;
-  border: none;
-  color: #fff;
-  font-weight: 500;
-  font-size: 17px;
-  line-height: 24px;
-  letter-spacing: 0.03em;
-}
-
-.btn-1:hover {
-  background-color: #36b37f;
-  cursor: pointer;
-  border-radius: 4px;
-}
-
-.btn-1:active {
-  background-color: #008552;
-  color: #f4f1f0;
-  cursor: pointer;
-  border-radius: 4px;
-}
-
 .foot {
   display: none;
 }
@@ -460,6 +440,10 @@ input::placeholder {
   flex-direction: row;
   align-items: center;
   justify-content: center;
+}
+
+.line {
+  margin-top: 2%;
 }
 
 .mail {
