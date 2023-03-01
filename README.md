@@ -63,7 +63,6 @@
 
 ### Key Features <a name="key-features"></a>
 
-
 - **Header**
 - **Tag-Line**
 - **Social-Links**
