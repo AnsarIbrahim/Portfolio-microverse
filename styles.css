@@ -234,7 +234,7 @@ a {
   list-style: none;
 }
 
-#card-tag > li {
+#card-tag li {
   background: #ebf0ee;
   padding: 5px;
   border: 1px solid #fff;
@@ -336,7 +336,7 @@ a {
   align-items: center;
 }
 
-#tags-1 > ul > li {
+#tags-1 ul li {
   background: #fff;
   border-radius: 8px;
   padding: 12px;
@@ -372,7 +372,7 @@ a {
   justify-content: center;
 }
 
-#tags-2 > ul > li {
+#tags-2 ul li {
   background: #fff;
   border-radius: 8px;
   padding: 12px;
@@ -452,7 +452,7 @@ input::placeholder {
   display: none;
 }
 
-.last-social > ul {
+.last-social ul {
   display: flex;
   flex-direction: row;
   align-items: center;
