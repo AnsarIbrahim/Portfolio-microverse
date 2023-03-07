@@ -234,7 +234,7 @@ a {
   list-style: none;
 }
 
-#card-tag li {
+#card-tag > li {
   background: #ebf0ee;
   padding: 5px;
   border: 1px solid #fff;
@@ -336,7 +336,7 @@ a {
   align-items: center;
 }
 
-#tags-1 ul li {
+#tags-1 > ul > li {
   background: #fff;
   border-radius: 8px;
   padding: 12px;
@@ -372,7 +372,7 @@ a {
   justify-content: center;
 }
 
-#tags-2 ul li {
+#tags-2 > ul > li {
   background: #fff;
   border-radius: 8px;
   padding: 12px;
@@ -492,11 +492,11 @@ input::placeholder {
     height: 92px;
   }
 
-  #nav ul {
+  #nav > ul {
     display: flex;
   }
 
-  #nav ul li a {
+  #nav > ul > li > a {
     color: #344563;
     font-family: 'Inter', sans-serif;
     font-style: normal;
@@ -505,7 +505,7 @@ input::placeholder {
     font-weight: 600;
   }
 
-  #nav ul li a:hover {
+  #nav > ul > li > a:hover {
     font-size: 30px;
   }
 
