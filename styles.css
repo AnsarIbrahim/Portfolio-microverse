@@ -89,18 +89,6 @@ a {
   transition: 0.5s;
 }
 
-#card-tag li {
-  background: #ebf0ee;
-  padding: 5px;
-  border: 1px solid #fff;
-  margin-bottom: 5px;
-  border-radius: 5px;
-  font-size: 12px;
-  line-height: 16px;
-  font-weight: 600;
-  color: #3a4a42;
-}
-
 .tags-1 > ul > li {
   background: #fff;
   border-radius: 8px;
@@ -121,6 +109,18 @@ a {
   line-height: 16px;
   letter-spacing: 0.03em;
   color: var(--Secondary);
+}
+
+#card-tag li {
+  background: #ebf0ee;
+  padding: 5px;
+  border: 1px solid #fff;
+  margin-bottom: 5px;
+  border-radius: 5px;
+  font-size: 12px;
+  line-height: 16px;
+  font-weight: 600;
+  color: #3a4a42;
 }
 
 #sideNav nav ul li {
