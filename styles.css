@@ -79,7 +79,7 @@ a {
   margin-left: 5%;
 }
 
-#sideNav {
+.sideNav {
   position: absolute;
   top: 0;
   left: -900px;
@@ -89,11 +89,11 @@ a {
   transition: 0.5s;
 }
 
-#sideNav nav ul li {
+.sideNav > nav > ul > li {
   margin: 70px 40px;
 }
 
-#sideNav nav ul li a {
+.sideNav > nav > ul > li > a {
   color: #3a4a42;
   font-weight: 600;
   font-size: 32px;
@@ -322,21 +322,21 @@ a {
   color: #344563;
 }
 
-#tags-1 {
+.tags-1 {
   display: flex;
   width: 271px;
   height: 40px;
   justify-content: center;
 }
 
-#tags-1 ul {
+.tags-1 > ul {
   display: flex;
   flex-direction: row;
   gap: 8px;
   align-items: center;
 }
 
-#tags-1 ul li {
+.tags-1 > ul > li {
   background: #fff;
   border-radius: 8px;
   padding: 12px;
@@ -365,14 +365,14 @@ a {
   color: #344563;
 }
 
-#tags-2 ul {
+.tags-2 > ul {
   display: flex;
   flex-direction: row;
   gap: 8px;
   justify-content: center;
 }
 
-#tags-2 ul li {
+.tags-2 > ul > li {
   background: #fff;
   border-radius: 8px;
   padding: 12px;
@@ -452,7 +452,7 @@ input::placeholder {
   display: none;
 }
 
-.last-social ul {
+.last-social > ul {
   display: flex;
   flex-direction: row;
   align-items: center;
