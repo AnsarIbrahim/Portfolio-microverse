@@ -12,23 +12,39 @@
 </head>
 
 <body>
-    <section class="hero" id="Portfolio">
-        <header>
-            <div class="head">
-                <div class="brand">
-                    Welcome
-                </div>
-                <ul class="nav-li">
-                    <li><a href="#Portfolio">Portfolio</a></li>
-                    <li><a href="#about">About</a></li>
-                    <li><a href="#contact">Contact</a></li>
-                </ul>
-                <span class="material-symbols-outlined">
-                    menu
-                </span>
-            </div>
-        </header>
 
+    <header>
+        <div class="head">
+            <div class="brand">
+                Welcome
+            </div>
+            <div id="sideNav">
+                <div class="close" id="closeBtn">
+                    <img src="assest/close.png" alt="close-img" id="close">
+                </div>
+                <nav>
+                    <ul>
+                        <li><a href="#Portfolio">Portfolio</a></li>
+                        <li><a href="#about">About </a></li>
+                        <li><a href="#contact">Contact</a></li>
+                    </ul>
+                </nav>
+            </div>
+            <div class="burger" id="menuBtn">
+                <img src="assest/menu.png" alt="menu-img" id="menu">
+            </div>
+            <div id="nav">
+                <nav>
+                    <ul>
+                        <li><a href="#Portfolio">Portfolio</a></li>
+                        <li><a href="#about">About </a></li>
+                        <li><a href="#contact">Contact</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </header>
+    <section class="hero" id="Portfolio">
         <div class="contain">
             <h1 class="head-h" id="#Portfolio">
                 Hey there. I'm Ansar
@@ -69,7 +85,7 @@
                             Multi-Post Stories <br>
                             <span>Gain+Glory</span>
                         </h4>
-                        <ul class="card-tag">
+                        <ul id="card-tag">
                             <li>Ruby on rails</li>
                             <li>css</li>
                             <li>JavScript</li>
@@ -87,7 +103,7 @@
                             Multi-Post Stories <br>
                             <span>Gain+Glory</span>
                         </h4>
-                        <ul class="card-tag">
+                        <ul id="card-tag">
                             <li>Ruby on rails</li>
                             <li>css</li>
                             <li>JavScript</li>
@@ -105,7 +121,7 @@
                             Multi-Post Stories <br>
                             <span>Gain+Glory</span>
                         </h4>
-                        <ul class="card-tag">
+                        <ul id="card-tag">
                             <li>Ruby on rails</li>
                             <li>css</li>
                             <li>JavScript</li>
@@ -123,7 +139,7 @@
                             Multi-Post Stories <br>
                             <span>Gain+Glory</span>
                         </h4>
-                        <ul class="card-tag">
+                        <ul id="card-tag">
                             <li>Ruby on rails</li>
                             <li>css</li>
                             <li>JavScript</li>
@@ -141,7 +157,7 @@
                             Multi-Post Stories <br>
                             <span>Gain+Glory</span>
                         </h4>
-                        <ul class="card-tag">
+                        <ul id="card-tag">
                             <li>Ruby on rails</li>
                             <li>css</li>
                             <li>JavScript</li>
@@ -159,7 +175,7 @@
                             Multi-Post Stories <br>
                             <span>Gain+Glory</span>
                         </h4>
-                        <ul class="card-tag">
+                        <ul id="card-tag">
                             <li>Ruby on rails</li>
                             <li>css</li>
                             <li>JavScript</li>
@@ -192,7 +208,7 @@
                 <img class="lang" src="assest/about/icon-languages.png" alt="lang-img">
                 <div class="text-1">
                     <h4>Languages</h4>
-                    <div class="tags-1">
+                    <div id="tags-1">
                         <ul>
                             <li>JavaScript</li>
                             <li>Ruby</li>
@@ -206,14 +222,14 @@
                 <img class="lang" src="assest/about/icon-frameworks.png" alt="frame-img">
                 <div class="text-2">
                     <h4>Frameworks</h4>
-                    <div class="tags-2">
+                    <div id="tags-2">
                         <ul>
                             <li>Bootstrap</li>
                             <li>Ruby on rails</li>
                             <li>RSpec</li>
                         </ul>
                     </div>
-                    <div class="tags-2">
+                    <div id="tags-2">
                         <ul>
                             <li>Capybara</li>
                             <li>Selenium</li>
@@ -225,7 +241,7 @@
                 <img class="lang " src="assest/about/icon-skills.png" alt="skill-img">
                 <div class="text-2">
                     <h4>Skills</h4>
-                    <div class="tags-2">
+                    <div id="tags-2">
                         <ul>
                             <li>Codekit</li>
                             <li>GitHub</li>
@@ -233,7 +249,7 @@
                             <li>Gitlab</li>
                         </ul>
                     </div>
-                    <div class="tags-2">
+                    <div id="tags-2">
                         <ul>
                             <li>Terminal</li>
                         </ul>
@@ -261,7 +277,7 @@
                     maxlength="500"></textarea>
                 </li>
                 <div class="btn">
-                <button class="btn">Get in touch</button>
+                    <button class="btn">Get in touch</button>
                 </div>
             </form>
         </div>
@@ -308,6 +324,7 @@
             <h3>ansaradheeb@gmail.com</h3>
         </div>
     </footer>
+    <script src="index.js"></script>
 </body>
 
 </html>
