@@ -326,6 +326,7 @@ a {
   border: 1px solid #dfe1e6;
   border-radius: 16px;
   width: 90%;
+  overflow: auto;
 }
 
 .portmob {
@@ -643,6 +644,7 @@ input::placeholder {
 
   .newcont {
     width: 80%;
+    overflow-x: hidden;
   }
 
   .portdesk {
@@ -691,7 +693,7 @@ input::placeholder {
   }
 
   .card-pop {
-    width: 55.8%;
+    width: 49.8%;
   }
 
   .close-ma {
@@ -870,6 +872,6 @@ input::placeholder {
   }
 
   .newcont {
-    width: 60%;
+    width: 80%;
   }
 }
