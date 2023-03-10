@@ -67,6 +67,7 @@
 - **Tag-Line**
 - **Social-Links**
 - **Recent-works**
+- **Popup Window**
 - **About**
 - **Footer**
 - **Animation**
