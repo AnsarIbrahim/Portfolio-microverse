@@ -130,6 +130,18 @@ a {
   color: #3a4a42;
 }
 
+#cardnew li {
+  background: #ebf0ee;
+  padding: 5px;
+  border: 1px solid #fff;
+  margin-bottom: 5px;
+  border-radius: 5px;
+  font-size: 12px;
+  line-height: 16px;
+  font-weight: 600;
+  color: #3a4a42;
+}
+
 #sideNav nav ul li {
   margin: 70px 40px;
 }
@@ -332,18 +344,6 @@ a {
   align-items: flex-start;
   list-style-type: none;
   margin-top: 5%;
-}
-
-#cardnew li {
-  background: #ebf0ee;
-  padding: 5px;
-  border: 1px solid #fff;
-  margin-bottom: 5px;
-  border-radius: 5px;
-  font-size: 12px;
-  line-height: 16px;
-  font-weight: 600;
-  color: #3a4a42;
 }
 
 .newcont > p {
@@ -628,11 +628,13 @@ input::placeholder {
     display: none;
   }
 
-  .portdesk, #cardnew2, .btngroup {
+  .portdesk,
+  #cardnew2,
+  .btngroup {
     display: block;
   }
 
-   .newcont {
+  .newcont {
     width: 80%;
   }
 
@@ -647,7 +649,7 @@ input::placeholder {
     list-style-type: none;
     margin-top: 3%;
   }
-  
+
   #cardnew2 li {
     background: #ebf0ee;
     padding: 5px;
@@ -689,15 +691,15 @@ input::placeholder {
     display: block;
     margin: 2% 94%;
   }
-  
+
   #close1 {
-  width: 40px;
-  height: 40px;
-  border-radius: 8px;
-  padding: 8px;
-  border: none;
-  background: #ebecf0;
-  cursor: pointer;
+    width: 40px;
+    height: 40px;
+    border-radius: 8px;
+    padding: 8px;
+    border: none;
+    background: #ebecf0;
+    cursor: pointer;
   }
 
   .btngroup > .btn > button {
@@ -860,7 +862,7 @@ input::placeholder {
     grid-template-columns: auto auto auto;
   }
 
-   .newcont {
+  .newcont {
     width: 60%;
   }
 }

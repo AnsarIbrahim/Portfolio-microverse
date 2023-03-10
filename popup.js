@@ -1,15 +1,23 @@
 const cards = [
   {
     id: 1,
-    img: 'assest/card/Img\ Plaholder.png',
+    img: 'assest/card/Img Plaholder.png',
     title: 'Multi-Post Stories',
     h4: 'Gain+Glory',
-    technologies: ["Ruby on rails", "css", "Javasript", "html"],
-    technologies1: ["Ruby on rails", "css", "Javasript"],
-    technologies2: ["Codekit", "GitHub", "Javasript", "Bootstrap", "Terminal", "Codepen"],
+    technologies: ['Ruby on rails', 'css', 'Javasript', 'html'],
+    technologies1: ['Ruby on rails', 'css', 'Javasript'],
+    technologies2: [
+      'Codekit',
+      'GitHub',
+      'Javasript',
+      'Bootstrap',
+      'Terminal',
+      'Codepen',
+    ],
     seelive: 'See Live',
     source: 'See Source',
-    description: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 1960s with the releaLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 1960s with the relea',
+    description:
+      'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 1960s with the releaLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 1960s with the relea',
     livelink: 'https://ansaribrahim.github.io/Ansar-Portfolio/',
     githublink: 'https://github.com/AnsarIbrahim',
     seepro: 'See Project',
@@ -22,15 +30,23 @@ const cards = [
 
   {
     id: 2,
-    img: 'assest/card/Img\ Plaholder.png',
+    img: 'assest/card/Img Plaholder.png',
     title: 'Multi-Post Stories',
     h4: 'Gain+Glory',
-    technologies: ["Ruby on rails", "css", "Javasript", "html"],
-    technologies1: ["Ruby on rails", "css", "Javasript"],
-    technologies2: ["Codekit", "GitHub", "Javasript", "Bootstrap", "Terminal", "Codepen"],
+    technologies: ['Ruby on rails', 'css', 'Javasript', 'html'],
+    technologies1: ['Ruby on rails', 'css', 'Javasript'],
+    technologies2: [
+      'Codekit',
+      'GitHub',
+      'Javasript',
+      'Bootstrap',
+      'Terminal',
+      'Codepen',
+    ],
     seelive: 'See Live',
     source: 'See Source',
-    description: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 1960s with the releaLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 1960s with the relea',
+    description:
+      'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 1960s with the releaLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 1960s with the relea',
     livelink: 'https://ansaribrahim.github.io/Ansar-Portfolio/',
     githublink: 'https://github.com/AnsarIbrahim',
     seepro: 'See Project',
@@ -43,15 +59,23 @@ const cards = [
 
   {
     id: 3,
-    img: 'assest/card/Img\ Plaholder.png',
+    img: 'assest/card/Img Plaholder.png',
     title: 'Multi-Post Stories',
     h4: 'Gain+Glory',
-    technologies: ["Ruby on rails", "css", "Javasript", "html"],
-    technologies1: ["Ruby on rails", "css", "Javasript"],
-    technologies2: ["Codekit", "GitHub", "Javasript", "Bootstrap", "Terminal", "Codepen"],
+    technologies: ['Ruby on rails', 'css', 'Javasript', 'html'],
+    technologies1: ['Ruby on rails', 'css', 'Javasript'],
+    technologies2: [
+      'Codekit',
+      'GitHub',
+      'Javasript',
+      'Bootstrap',
+      'Terminal',
+      'Codepen',
+    ],
     seelive: 'See Live',
     source: 'See Source',
-    description: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 1960s with the releaLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 1960s with the relea',
+    description:
+      'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 1960s with the releaLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 1960s with the relea',
     livelink: 'https://ansaribrahim.github.io/Ansar-Portfolio/',
     githublink: 'https://github.com/AnsarIbrahim',
     seepro: 'See Project',
@@ -64,15 +88,23 @@ const cards = [
 
   {
     id: 4,
-    img: 'assest/card/Img\ Plaholder.png',
+    img: 'assest/card/Img Plaholder.png',
     title: 'Multi-Post Stories',
     h4: 'Gain+Glory',
-    technologies: ["Ruby on rails", "css", "Javasript", "html"],
-    technologies1: ["Ruby on rails", "css", "Javasript"],
-    technologies2: ["Codekit", "GitHub", "Javasript", "Bootstrap", "Terminal", "Codepen"],
+    technologies: ['Ruby on rails', 'css', 'Javasript', 'html'],
+    technologies1: ['Ruby on rails', 'css', 'Javasript'],
+    technologies2: [
+      'Codekit',
+      'GitHub',
+      'Javasript',
+      'Bootstrap',
+      'Terminal',
+      'Codepen',
+    ],
     seelive: 'See Live',
     source: 'See Source',
-    description: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 1960s with the releaLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 1960s with the relea',
+    description:
+      'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 1960s with the releaLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 1960s with the relea',
     livelink: 'https://ansaribrahim.github.io/Ansar-Portfolio/',
     githublink: 'https://github.com/AnsarIbrahim',
     seepro: 'See Project',
@@ -85,15 +117,23 @@ const cards = [
 
   {
     id: 5,
-    img: 'assest/card/Img\ Plaholder.png',
+    img: 'assest/card/Img Plaholder.png',
     title: 'Multi-Post Stories',
     h4: 'Gain+Glory',
-    technologies: ["Ruby on rails", "css", "Javasript", "html"],
-    technologies1: ["Ruby on rails", "css", "Javasript"],
-    technologies2: ["Codekit", "GitHub", "Javasript", "Bootstrap", "Terminal", "Codepen"],
+    technologies: ['Ruby on rails', 'css', 'Javasript', 'html'],
+    technologies1: ['Ruby on rails', 'css', 'Javasript'],
+    technologies2: [
+      'Codekit',
+      'GitHub',
+      'Javasript',
+      'Bootstrap',
+      'Terminal',
+      'Codepen',
+    ],
     seelive: 'See Live',
     source: 'See Source',
-    description: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 1960s with the releaLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 1960s with the relea',
+    description:
+      'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 1960s with the releaLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 1960s with the relea',
     livelink: 'https://ansaribrahim.github.io/Ansar-Portfolio/',
     githublink: 'https://github.com/AnsarIbrahim',
     seepro: 'See Project',
@@ -106,15 +146,23 @@ const cards = [
 
   {
     id: 6,
-    img: 'assest/card/Img\ Plaholder.png',
+    img: 'assest/card/Img Plaholder.png',
     title: 'Multi-Post Stories',
     h4: 'Gain+Glory',
-    technologies: ["Ruby on rails", "css", "Javasript", "html"],
-    technologies1: ["Ruby on rails", "css", "Javasript"],
-    technologies2: ["Codekit", "GitHub", "Javasript", "Bootstrap", "Terminal", "Codepen"],
-    seelive: 'See Live',                         
+    technologies: ['Ruby on rails', 'css', 'Javasript', 'html'],
+    technologies1: ['Ruby on rails', 'css', 'Javasript'],
+    technologies2: [
+      'Codekit',
+      'GitHub',
+      'Javasript',
+      'Bootstrap',
+      'Terminal',
+      'Codepen',
+    ],
+    seelive: 'See Live',
     source: 'See Source',
-    description: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 1960s with the releaLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 1960s with the relea',
+    description:
+      'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 1960s with the releaLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 1960s with the relea',
     livelink: 'https://ansaribrahim.github.io/Ansar-Portfolio/',
     githublink: 'https://github.com/AnsarIbrahim',
     seepro: 'See Project',
@@ -147,28 +195,35 @@ const wrapCars = (id, title, img, h4, technologies, seepro) => `
 </div>
 </div>
 </div>
-`
+`;
 cards.forEach((a) => {
-    const cardsContainer = document.getElementById('cards-container');
-    const htmlToInsert = wrapCars(a.id, a.title, a.img, a.h4, a.technologies, a.seepro);
-    let theDiv = document.createElement("div");
-    theDiv.innerHTML = htmlToInsert;
-    cardsContainer.appendChild(theDiv);
+  const cardsContainer = document.getElementById('cards-container');
+  const htmlToInsert = wrapCars(
+    a.id,
+    a.title,
+    a.img,
+    a.h4,
+    a.technologies,
+    a.seepro,
+  );
+  const theDiv = document.createElement('div');
+  theDiv.innerHTML = htmlToInsert;
+  cardsContainer.appendChild(theDiv);
 });
 
-const PopUp = (id,
-    imgmob,
-    imgdesk,
-    poph4,
-    technologies1,
-    technologies2,
-    description,
-    imglive,
-    imggit,
-    livelink,
-    githublink) => {
-   
-    return `
+const PopUp = (
+  id,
+  imgmob,
+  imgdesk,
+  poph4,
+  technologies1,
+  technologies2,
+  description,
+  imglive,
+  imggit,
+  livelink,
+  githublink,
+) => `
     <div class="newcont" id="pop-cont">
     <div class="btn-img">
         <img class="portmob" src="${imgmob}" alt="port-img">
@@ -218,40 +273,32 @@ const PopUp = (id,
         </div>
     </div>
 </div>`;
-}
-   
+
 cards.forEach((prj) => {
-    const btnShowProject = document.getElementById(`openpop-${prj.id}`);
-    btnShowProject.addEventListener('click', () => {
-        const thePopUp = document.getElementById('cardpop');
-        const htmlToInsert = PopUp(prj.id, prj.imgmob, prj.imgdesk, prj.poph4, prj.technologies1, prj.technologies2, prj.description, prj.imglive, prj.imggit, prj.livelink, prj.githublink);
-        thePopUp.innerHTML = htmlToInsert;
-        })
-    })
+  const btnShowProject = document.getElementById(`openpop-${prj.id}`);
+  btnShowProject.addEventListener('click', () => {
+    const thePopUp = document.getElementById('cardpop');
+    const htmlToInsert = PopUp(
+      prj.id,
+      prj.imgmob,
+      prj.imgdesk,
+      prj.poph4,
+      prj.technologies1,
+      prj.technologies2,
+      prj.description,
+      prj.imglive,
+      prj.imggit,
+      prj.livelink,
+      prj.githublink,
+    );
+    thePopUp.innerHTML = htmlToInsert;
+  });
+});
 
-    // Close button functionality
-    document.addEventListener('click', function(e) {
-        if(e.target.id === "closex") {
-            const thePopUp = document.getElementById('cardpop');
-            thePopUp.innerHTML = '';
-    }
-
-})
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// Close button functionality
+document.addEventListener('click', (e) => {
+  if (e.target.id === 'closex') {
+    const thePopUp = document.getElementById('cardpop');
+    thePopUp.innerHTML = '';
+  }
+});
