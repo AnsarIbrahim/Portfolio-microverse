@@ -173,12 +173,12 @@ const PopUp = (id,
     <div class="btn-img">
         <img class="portmob" src="${imgmob}" alt="port-img">
         <div id="close2" class="close-3"> 
-        <img src="assest/popup/popup-desktop/Disabled.png" alt="close-img" id="#closex">
+        <img src="assest/popup/popup-desktop/Disabled.png" alt="close-img" id="closex">
         </div>
     </div>
     <div class="close-ma">
     <div id="close1" class="close-3">
-        <img src="assest/popup/popup-desktop/Disabled.png" alt="close-img" id="#closex">
+        <img src="assest/popup/popup-desktop/Disabled.png" alt="close-img" id="closex">
         </div>
     </div>
     <div class="pop-img-container">
@@ -229,12 +229,17 @@ cards.forEach((prj) => {
         })
     })
 
-document.addEventListener('DOMContentLoaded', function() {
-    var myButton = document.getElementById('closex');
-    myButton.addEventListener('click', function() {
-        alert('Hello');
-    })
+    // Close button functionality
+    document.addEventListener('click', function(e) {
+        if(e.target.id === "closex") {
+            const thePopUp = document.getElementById('cardpop');
+            thePopUp.innerHTML = '';
+    }
+
 })
+
+
+
 
 
 
