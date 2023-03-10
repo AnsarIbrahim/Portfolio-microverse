@@ -160,12 +160,13 @@
                 about new projects, so if you'd
                 like to chat please get in touch.
             </p>
-            <form class="form" action="https://formspree.io/f/xjvdwlak" method="POST">
+            <form id="form" class="form" action="https://formspree.io/f/xjvdwlak" method="POST">
                 <div class="name">
                     <input id="name" type="name" name="name" placeholder="First Name" maxlength="30" required>
                     <input id="name-1" type="lastname" name="lastname" placeholder="Last Name" maxlength="30" required>
                 </div>
                 <input id="email" type="email" name="email" placeholder="Email address" maxlength="30" required>
+                <div class="error" id="error"></div>
                 <textarea id="message" name="message" cols="20" rows="5" placeholder="Typing something"
                     maxlength="500"></textarea>
                 </li>
@@ -219,6 +220,7 @@
     </footer>
     <script src="toogle.js"></script>
     <script src="popup.js"></script>
+    <script src="validate.js"></script>
 </body>
 
 </html>

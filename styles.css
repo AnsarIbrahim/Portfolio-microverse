@@ -533,6 +533,13 @@ input::placeholder {
   display: none;
 }
 
+.error {
+  color: var(--Secondary);
+  padding: 8px;
+  border-radius: 4px;
+  background-color: #fff;
+}
+
 #message {
   background: #fff;
   border: 1px solid #60c095;
