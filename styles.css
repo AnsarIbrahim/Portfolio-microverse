@@ -30,6 +30,13 @@ a {
   text-decoration: none;
 }
 
+.portdesk,
+#cardnew2,
+.btngroup,
+.close-ma {
+  display: none;
+}
+
 .btn {
   background: var(--Secondary);
   border: none;
@@ -123,6 +130,18 @@ a {
   color: #3a4a42;
 }
 
+#cardnew li {
+  background: #ebf0ee;
+  padding: 5px;
+  border: 1px solid #fff;
+  margin-bottom: 5px;
+  border-radius: 5px;
+  font-size: 12px;
+  line-height: 16px;
+  font-weight: 600;
+  color: #3a4a42;
+}
+
 #sideNav nav ul li {
   margin: 70px 40px;
 }
@@ -195,7 +214,7 @@ a {
   align-items: center;
   justify-content: center;
   flex-direction: column;
-  gap: 58px;
+  gap: 15px;
   padding: 64px 24px;
   text-align: center;
 }
@@ -239,9 +258,7 @@ a {
   box-shadow: 0 2px 10px -1px rgb(0 0 0 / 80%);
 }
 
-.card-img {
-  background-image: url(assest/card/Img\ Plaholder.png);
-  background-size: cover;
+.card-img > img {
   height: 260px;
   width: 100%;
 }
@@ -253,6 +270,7 @@ a {
   text-align: center;
   gap: 16px;
   padding: 16px;
+  border-radius: 8px;
 }
 
 .card-text > h4 {
@@ -266,6 +284,89 @@ a {
   display: flex;
   align-items: center;
   list-style: none;
+}
+
+.hero-3 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background: #c1c7d0ce;
+  position: fixed;
+  top: 0;
+}
+
+.btn-img {
+  position: relative;
+}
+
+#close2 {
+  position: absolute;
+  top: 7%;
+  right: 6%;
+  width: 40px;
+  height: 40px;
+  border-radius: 8px;
+  padding: 8px;
+  border: none;
+  background: #ebecf0;
+  z-index: 999;
+  cursor: pointer;
+}
+
+.cardcont {
+  margin-top: 5%;
+}
+
+.newcont {
+  padding: 16px;
+  gap: 24px;
+  background: #fff;
+  border: 1px solid #dfe1e6;
+  border-radius: 16px;
+  width: 90%;
+}
+
+.portmob {
+  width: 100%;
+}
+
+.card-pop {
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 44px;
+  color: #172b4d;
+}
+
+#cardnew {
+  display: flex;
+  align-items: flex-start;
+  list-style-type: none;
+  margin-top: 5%;
+}
+
+.newcont > p {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #344563;
+  margin-top: 5%;
+}
+
+.btngroup1 {
+  margin-top: 5%;
+}
+
+.btngroup1 > .btn > button {
+  display: flex;
+  flex-direction: row;
+  font-weight: 500;
+  font-size: 17px;
+  line-height: 24px;
+  letter-spacing: 0.03em;
+  gap: 12px;
+  padding: 5px;
 }
 
 .about {
@@ -432,6 +533,13 @@ input::placeholder {
   display: none;
 }
 
+.error {
+  color: var(--Secondary);
+  padding: 8px;
+  border-radius: 4px;
+  background-color: #fff;
+}
+
 #message {
   background: #fff;
   border: 1px solid #60c095;
@@ -509,7 +617,7 @@ input::placeholder {
     font-size: 30px;
   }
 
-  .close {
+  #close2 {
     display: none;
   }
 
@@ -519,6 +627,95 @@ input::placeholder {
 
   .burger {
     display: none;
+  }
+
+  .portmob,
+  #cardnew,
+  .btngroup1 {
+    display: none;
+  }
+
+  .portdesk,
+  #cardnew2,
+  .btngroup {
+    display: block;
+  }
+
+  .newcont {
+    width: 80%;
+  }
+
+  .portdesk {
+    width: 100%;
+    object-fit: contain;
+  }
+
+  #cardnew2 {
+    display: flex;
+    align-items: flex-start;
+    list-style-type: none;
+    margin-top: 3%;
+  }
+
+  #cardnew2 li {
+    background: #ebf0ee;
+    padding: 5px;
+    border: 1px solid #fff;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    font-size: 12px;
+    line-height: 16px;
+    font-weight: 600;
+    color: #3a4a42;
+  }
+
+  .cardcont {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: space-between;
+    margin-top: 2%;
+  }
+
+  .btngroup {
+    display: flex;
+    flex-direction: row;
+    gap: 12px;
+    padding: 5px;
+  }
+
+  .pop-img-container {
+    min-height: 40vh;
+    height: 50vh;
+    overflow: hidden;
+  }
+
+  .card-pop {
+    width: 55.8%;
+  }
+
+  .close-ma {
+    display: block;
+    margin: 2% 94%;
+  }
+
+  #close1 {
+    width: 40px;
+    height: 40px;
+    border-radius: 8px;
+    padding: 8px;
+    border: none;
+    background: #ebecf0;
+    cursor: pointer;
+  }
+
+  .btngroup > .btn > button {
+    display: flex;
+    flex-direction: row;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 20px;
+    align-items: center;
   }
 
   .head-h,
@@ -670,5 +867,9 @@ input::placeholder {
 
   .tager {
     grid-template-columns: auto auto auto;
+  }
+
+  .newcont {
+    width: 60%;
   }
 }
