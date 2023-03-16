@@ -18,7 +18,7 @@ const cards = [
     source: 'See Source',
     description:
       'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 1960s with the releaLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 1960s with the relea',
-    livelink: 'https://ansaribrahim.github.io/Ansar-Portfolio/',
+    livelink: 'https://ansaribrahim.github.io/Capstone-Project-1/',
     githublink: 'https://github.com/AnsarIbrahim',
     seepro: 'See Project',
     poph4: 'Keeping track of hundreds of components',
@@ -47,7 +47,7 @@ const cards = [
     source: 'See Source',
     description:
       'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 1960s with the releaLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 1960s with the relea',
-    livelink: 'https://ansaribrahim.github.io/Ansar-Portfolio/',
+    livelink: 'https://ansaribrahim.github.io/Capstone-Project-1/',
     githublink: 'https://github.com/AnsarIbrahim',
     seepro: 'See Project',
     poph4: 'Keeping track of hundreds of components',
@@ -76,7 +76,7 @@ const cards = [
     source: 'See Source',
     description:
       'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 1960s with the releaLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 1960s with the relea',
-    livelink: 'https://ansaribrahim.github.io/Ansar-Portfolio/',
+    livelink: 'https://ansaribrahim.github.io/Capstone-Project-1/',
     githublink: 'https://github.com/AnsarIbrahim',
     seepro: 'See Project',
     poph4: 'Keeping track of hundreds of components',
@@ -105,7 +105,7 @@ const cards = [
     source: 'See Source',
     description:
       'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 1960s with the releaLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 1960s with the relea',
-    livelink: 'https://ansaribrahim.github.io/Ansar-Portfolio/',
+    livelink: 'https://ansaribrahim.github.io/Capstone-Project-1/',
     githublink: 'https://github.com/AnsarIbrahim',
     seepro: 'See Project',
     poph4: 'Keeping track of hundreds of components',
@@ -134,7 +134,7 @@ const cards = [
     source: 'See Source',
     description:
       'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 1960s with the releaLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 1960s with the relea',
-    livelink: 'https://ansaribrahim.github.io/Ansar-Portfolio/',
+    livelink: 'https://ansaribrahim.github.io/Capstone-Project-1/',
     githublink: 'https://github.com/AnsarIbrahim',
     seepro: 'See Project',
     poph4: 'Keeping track of hundreds of components',
@@ -163,7 +163,7 @@ const cards = [
     source: 'See Source',
     description:
       'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 1960s with the releaLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 1960s with the relea',
-    livelink: 'https://ansaribrahim.github.io/Ansar-Portfolio/',
+    livelink: 'https://ansaribrahim.github.io/Capstone-Project-1/',
     githublink: 'https://github.com/AnsarIbrahim',
     seepro: 'See Project',
     poph4: 'Keeping track of hundreds of components',
