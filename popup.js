@@ -17,7 +17,7 @@ const cards = [
     seelive: "See Live",
     source: "See Source",
     description:
-      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 1960s with the releaLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 1960s with the relea",
+      "Oscar 2023 is a dynamic and interactive website created using HTML, CSS, and JavaScript.The website is built with a responsive layout to ensure it is accessible and visually appealing on various devices, including desktops, tablets, and mobile phones.The website offers a seamless and intuitive user experience. Navigating through different sections and pages is easy and straightforward.The website incorporates modern design elements, attractive color schemes, and eye-catching graphics to create an engaging visual experience for visitors.JavaScript is utilized to add interactive elements, such as animated transitions, image sliders, dropdown menus, and form validations, enhancing user engagement and interactivity.The website employs clear and logical content organization, ensuring that information is presented in a structured and easily accessible manner. This helps users quickly find the desired information.",
     livelink: "https://ansaribrahim.github.io/Capstone-Project-1/",
     githublink: "https://github.com/AnsarIbrahim",
     seepro: "See Project",
