@@ -30,7 +30,7 @@ const cards = [
 
   {
     id: 2,
-    img: "assest/card/Img Plaholder.png",
+    img: "assest/card/project-2.png",
     title: "Multi-Post Stories",
     h4: "Gain+Glory",
     technologies: ["Ruby on rails", "css", "Javasript", "html"],
@@ -46,15 +46,15 @@ const cards = [
     seelive: "See Live",
     source: "See Source",
     description:
-      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 1960s with the releaLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 1960s with the relea",
-    livelink: "https://ansaribrahim.github.io/Capstone-Project-1/",
+      "This project develops an interactive web application using HTML, CSS, Web API, Webpack, Jest, and SCSS. It provides a user-friendly interface for data visualization. HTML and CSS structure and style the pages, while Web APIs enable real-time data retrieval and manipulation. Webpack optimizes assets and streamlines deployment. Jest ensures code reliability through unit testing. SCSS enhances CSS maintainability with variables and mixins. The project aims to create a visually appealing and interactive web app, empowering users to explore and gain insights from diverse datasets. It combines these technologies to deliver a dynamic, intuitive, and informative data visualization experience.",
+    livelink: "https://ansaribrahim.github.io/Capstone-2/dist/",
     githublink: "https://github.com/AnsarIbrahim",
     seepro: "See Project",
     poph4: "Keeping track of hundreds of components",
     imglive: "assest/popup/Live.png",
     imggit: "assest/popup/git-hub.png",
-    imgmob: "assest/popup/Snapshoot Portfolio.png",
-    imgdesk: "assest/popup/popup-desktop/Snapshoot Portfolio.png",
+    imgmob: "assest/card/project-2.png",
+    imgdesk: "assest/card/project-2.png",
   },
 
   {
