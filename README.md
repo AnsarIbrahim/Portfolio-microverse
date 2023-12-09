@@ -80,7 +80,7 @@
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 
-- [Live Demo Link](https://ansaribrahim.github.io/Ansar-Portfolio/)
+- [Live Demo Link](https://port-folio-microverse.netlify.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -95,11 +95,11 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
-- Modern chrome Browser
+- Modern Chrome Browser
 
 ### Setup
 
-- Clone this repository to your desired folder with the following commend
+- Clone this repository to your desired folder with the following command
 ```
 git clone git@github.com:AnsarIbrahim/Ansar-Portfolio.git
 ```
@@ -111,13 +111,13 @@ git clone git@github.com:AnsarIbrahim/Ansar-Portfolio.git
 ```
 Ansar-Portfolio
 ```
-- open index.html file in the browser
+- open the index.html file in the browser
 
 ### Usage
 
 - To run the project, execute the following command:
   - Type cd ``` Ansar-Portfolio ```
-  - open index.html file in the browser
+  - open the index.html file in the browser
 
 ### Run tests
 
@@ -128,7 +128,7 @@ Ansar-Portfolio
 
 - You can deploy this project using:
   - Type cd ``` Ansar-Portfolio ```
-  - open index.html file in the browser
+  - open the index.html file in the browser
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -183,7 +183,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-- I would like to thank following
+- I would like to thank the following
   - MicroVerse 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
