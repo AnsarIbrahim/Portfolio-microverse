@@ -27,7 +27,7 @@
 # 📖 Portfolio-desktop-version <a name="about-project"></a>
 
 
-**Ansar-Portfolio** is a website that displays my Techinical skills and projects that i have done.
+Ansar-Portfolio is a website that displays my Techinical skills and projects that i have done.
 
 
 **Link to online version of My Portfolio** is in [Live Demo](#live-demo)
